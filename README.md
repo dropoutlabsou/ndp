@@ -11,6 +11,7 @@ You will need to be truly committed, as you are expected to:
 
 - read the forthcoming chapter(s) every two weeks -- ???
 - present one chapter yourself
+    - slides? 
 
 If you are interested in taking part, please send an email to [team@dropoutlabs.com](mailto:team@dropoutlabs.com)
 
