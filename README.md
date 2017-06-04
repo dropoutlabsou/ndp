@@ -13,7 +13,7 @@ You will need to be truly committed, as you are expected to:
 - present one chapter yourself
     - slides? 
 
-If you are interested in taking part, please send an email to [team@dropoutlabs.com](mailto:team@dropoutlabs.com)
+If you are interested in taking part, please send an email to [team@dropoutlabs.com](mailto:team@dropoutlabs.com) or fork+PR :-)
 
 ## Premliminary Schedule
 
