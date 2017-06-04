@@ -12,6 +12,7 @@ You will need to be truly committed, as you are expected to:
 - read the forthcoming chapter(s) every two weeks -- ???
 - present one chapter yourself
     - slides? 
+    - **productive reading** discuss worked solutions to OpenAI requests for research as we move along -- [openai.md](/openai.md)
 
 If you are interested in taking part, please send an email to [team@dropoutlabs.com](mailto:team@dropoutlabs.com) or fork+PR :-)
 
