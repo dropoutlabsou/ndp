@@ -38,6 +38,7 @@ TBD
 ## Currently Registered Members
 
 - Yakov Z 
+- Semenov P
 
 ## References
 * DEEP REINFORCEMENT LEARNING: AN OVERVIEW (https://arxiv.org/pdf/1701.07274.pdf)
