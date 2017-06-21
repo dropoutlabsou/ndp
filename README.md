@@ -30,6 +30,9 @@ If you are interested in taking part, please send an email to [team@dropoutlabs.
 | Extensions                                            |        |
 | Case Studies                                          |        |
 
+## Coding style (slides, Jupyter, Git etc.)
+
+TBW
 
 ## Products of the Reading Club
 
